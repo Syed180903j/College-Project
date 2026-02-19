@@ -121,11 +121,11 @@ Install gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/rahulsabinkar/organ-donation-platform.git
+   git clone https://github.com/Syed180903j/College-Project
    ```
 3. Traverse into the app folder.
    ```sh
-   cd organ-donation-platform/app
+   cd College-Project/app
    ```
 4. Install npm dependencies.
    ```sh
@@ -156,10 +156,6 @@ Now that everything is set-up, you can run the server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Team Members
-
-* [Rahul Sabinkar](https://github.com/RahulSabinkar)
-* [Sai Manikanta Teja](https://github.com/SaiManikantaTeja)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
